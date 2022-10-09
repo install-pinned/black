@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install black from PyPI
-  uses: install-pinned/black@ffffffffffffffffffffffffffffffffffffffff
+  uses: install-pinned/black@26dd43b7fa95e4c69021f771470e5986d4a514f4  # 22.10.0
 ```
 
 ## Alternatives
