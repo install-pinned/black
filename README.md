@@ -13,8 +13,8 @@ This action installs a pinned version of **black** and all its dependencies,    
 In your GitHub Actions workflow, use this action like so:
 
 ```yaml
-- name: Install black from PyPI
-  uses: install-pinned/black@56f4c685961e3abdb4d99283df5f71a3ab3738c4  # 22.10.0
+      - name: Install black from PyPI
+        uses: install-pinned/black@56f4c685961e3abdb4d99283df5f71a3ab3738c4  # 22.10.0
 ```
 
 ## Alternatives
