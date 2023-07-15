@@ -36,9 +36,9 @@ packaging==23.1 ; python_version >= "3.8" and python_version < "4.0" \
 pathspec==0.11.1 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:2798de800fa92780e33acca925945e9a19a133b715067cf165b8866c15a31687 \
     --hash=sha256:d8af70af76652554bd134c22b3e8a1cc46ed7d91edcdd721ef1a0c51a84a5293
-platformdirs==3.8.1 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:cec7b889196b9144d088e4c57d9ceef7374f6c39694ad1577a0aab50d27ea28c \
-    --hash=sha256:f87ca4fcff7d2b0f81c6a748a77973d7af0f4d526f98f308477c3c436c74d528
+platformdirs==3.9.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:16a642e216f72f16a0bf0026468135d8ffd34a3e17ad0875b030f16f3cba5cbb \
+    --hash=sha256:363fe3800e9c0227721c56eea50ae30c52c57ca7865def61ea9ebad133fe4445
 tomli==2.0.1 ; python_version >= "3.8" and python_version < "3.11" \
     --hash=sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc \
     --hash=sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f
