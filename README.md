@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install black from PyPI
-        uses: install-pinned/black@d52a4f954dbd23bc384eb7050ebf48e50f3b6d25  # 23.7.0
+        uses: install-pinned/black@09ff9a21ef4ae81b57544aa2e9314a99ea14c33b  # 23.7.0
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
